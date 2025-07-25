@@ -2,13 +2,17 @@
   "name": "chaiaurcode",
   "version": "1.0.0",
   "description": "this is practice of backend with chai aur code",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "chai"
   ],
   "author": "Hemant gayakwad",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
