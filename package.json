@@ -1,0 +1,14 @@
+{
+  "name": "chaiaurcode",
+  "version": "1.0.0",
+  "description": "this is practice of backend with chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai"
+  ],
+  "author": "Hemant gayakwad",
+  "license": "ISC"
+}
